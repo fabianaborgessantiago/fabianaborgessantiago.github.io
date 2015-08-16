@@ -1,0 +1,27 @@
+{
+  "name": "fabianasite",
+  "version": "0.0.0",
+  "authors": [
+    "Renato Machado <renato.zehh@gmail.com>"
+  ],
+  "description": "Site portifolio Fabiana Borges Fotografia",
+  "main": "main.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "components-font-awesome": "~4.4.0",
+    "angular-ui-router": "~0.2.15",
+    "angular-resource": "~1.4.3",
+    "underscore": "~1.8.3",
+    "angular-bootstrap": "~0.13.3",
+    "angular": "~1.4.4"
+  }
+}
